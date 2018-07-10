@@ -1,5 +1,5 @@
 {
-    "name": "@agm/marker-with-label",
+    "name": "@ajqua/marker-with-label",
     "version": "INSERT_HERE_VIA_BUILD_PROCESS",
     "private": true,
     "description": "Angular Google Maps (AGM) extension for markerwithlabel support",
@@ -21,7 +21,7 @@
     },
     "peerDependencies": {
       "@angular/core": "^4.0.0 || ^5.0.0",
-      "@agm/core": "^1.0.0-beta.2",
+      "@ajqua/core": "^1.0.0-beta.4a",
       "markerwithlabel": "^2.0.1"
     },
     "homepage": "https://github.com/SebastianM/angular-google-maps#readme"

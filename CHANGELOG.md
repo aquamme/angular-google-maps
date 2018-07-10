@@ -1,3 +1,8 @@
+<a name="1.0.0-beta.4a"></a>
+# [1.0.0-beta.4a orange-disk](https://github.com/SebastianM/angular-google-maps/compare/1.0.0-beta.3...1.0.0-beta.4a) (2018-05-24)
+
+	This set of packages has been forked so as to publish [this commit(https://github.com/felixpis/angular-google-maps/commit/f3af3cd241ae7898bca79b518b81798921721189)] by [felixpis](https://github.com/felixpis). Once [this PR](https://github.com/SebastianM/angular-google-maps/pull/1400) is merged, this package should be obsolete.
+
 <a name="1.0.0-beta.3"></a>
 # [1.0.0-beta.3 orange-disk](https://github.com/SebastianM/angular-google-maps/compare/1.0.0-beta.2...1.0.0-beta.3) (2018-05-24)
 

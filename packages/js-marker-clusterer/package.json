@@ -1,6 +1,6 @@
 {
-  "name": "@agm/clusterer-src",
+  "name": "@ajqua/clusterer-src",
   "dependencies": {
-    "@agm/core": "file:../core"
+    "@ajqua/core": "file:../core"
   }
 }
