@@ -21,7 +21,7 @@
     },
     "peerDependencies": {
       "@angular/core": "^4.0.0 || ^5.0.0",
-      "@ajqua/core": "^1.0.0-beta.4a",
+      "@ajqua/core": "^1.0.0-beta.4b",
       "markerwithlabel": "^2.0.1"
     },
     "homepage": "https://github.com/SebastianM/angular-google-maps#readme"
