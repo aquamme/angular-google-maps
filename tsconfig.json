@@ -21,7 +21,7 @@
             "jest"
         ],
         "paths": {
-            "@agm/*": ["./packages/*"]
+            "@ajqua/*": ["./packages/*"]
         }
     },
     "angularCompilerOptions": {

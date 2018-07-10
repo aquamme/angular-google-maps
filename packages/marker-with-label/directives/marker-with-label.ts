@@ -1,9 +1,9 @@
 import { Directive, Input, SimpleChange, OnChanges } from '@angular/core';
-import { AgmMarker } from '@agm/core';
-import { MarkerManager } from '@agm/core';
+import { AgmMarker } from '@ajqua/core';
+import { MarkerManager } from '@ajqua/core';
 
 import { MarkerWithLabelManager } from '../services/managers/marker-with-label-manager';
-import { Point } from '@agm/core/services/google-maps-types';
+import { Point } from '@ajqua/core/services/google-maps-types';
 
 @Directive({
     selector: 'agm-marker-with-label',

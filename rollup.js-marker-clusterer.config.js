@@ -15,11 +15,11 @@ export default {
       'rxjs/operator/toPromise': 'Rx.Observable.prototype',
       'rxjs/Observable': 'Rx',
       'rxjs/Rx': 'Rx',
-      '@agm/core': 'ngmaps.core'
+      '@ajqua/core': 'ngmaps.core'
     },
     sourceMap: true,
     format: 'umd'
   },
   context: 'window',
-  external: ['rxjs', '@angular/core', '@agm/core', 'js-marker-clusterer']
+  external: ['rxjs', '@angular/core', '@ajqua/core', 'js-marker-clusterer']
 }

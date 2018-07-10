@@ -6,12 +6,12 @@ this package levereges the [markerwithlabel][markerwithlabel] to add possibility
 
 ## Installation
 
-@agm/marker-with-label has a peer depedency on [markerwithlabel npm package][markerwithlabel npm package]
+@ajqua/marker-with-label has a peer depedency on [markerwithlabel npm package][markerwithlabel npm package]
 
 ```shell
-npm install markerwithlabel @agm/marker-with-label --save
+npm install markerwithlabel @ajqua/marker-with-label --save
 # or
-yarn add markerwithlabel @agm/marker-with-label
+yarn add markerwithlabel @ajqua/marker-with-label
 ```
 
 ## Usage
@@ -24,8 +24,8 @@ yarn add markerwithlabel @agm/marker-with-label
     import { AppComponent } from './app.component';
 
     // add these imports
-    import { AgmCoreModule } from '@agm/core';
-    import { AgmMarkerWithLabelModule } from '@agm/marker-with-label';
+    import { AgmCoreModule } from '@ajqua/core';
+    import { AgmMarkerWithLabelModule } from '@ajqua/marker-with-label';
 
     @NgModule({
       declarations: [
