@@ -1,7 +1,7 @@
 {
   "name": "@ajqua/_dev",
   "private": true,
-  "version": "1.0.0-beta.4c",
+  "version": "1.0.0-beta.4d",
   "description": "Angular components for Google Maps",
   "repository": {
     "type": "git",
