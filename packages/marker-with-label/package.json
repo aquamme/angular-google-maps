@@ -1,0 +1,6 @@
+{
+  "name": "@ajqua/markerwithlabel-src",
+  "dependencies": {
+    "@ajqua/core": "file:../core"
+  }
+}
